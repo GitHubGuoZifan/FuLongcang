@@ -1,0 +1,2 @@
+2018-09-22 22:46:19 [scrapy.utils.log] INFO: Scrapy 1.3.3 started (bot: qiubaipro)
+2018-09-22 22:46:19 [scrapy.utils.log] INFO: Overridden settings: {'BOT_NAME': 'qiubaipro', 'DOWNLOAD_DELAY': 3, 'LOG_ENABLED': False, 'LOG_FILE': 'log.txt', 'NEWSPIDER_MODULE': 'qiubaipro.spiders', 'SPIDER_MODULES': ['qiubaipro.spiders'], 'USER_AGENT': 'qiubaipro (+http://www.yourdomain.com)'}
